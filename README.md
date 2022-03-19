@@ -10,7 +10,8 @@ npm start
 ```
 
 You can see a sample of the project running here:
-trivia-react-redux-alex.surge.sh
+
+ http://trivia-react-redux-alex.surge.sh
 
 You can fill the login with any e-mail and password.
 
